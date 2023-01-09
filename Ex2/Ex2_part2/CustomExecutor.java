@@ -63,6 +63,9 @@ public class CustomExecutor extends ThreadPoolExecutor {
                 this.Max = ((TaskFuture) super.getQueue().peek()).getPriority();
             }
         }
+           else{
+            this.Max = 0;
+        }
     }
 
     public BlockingQueue<Runnable> getQueueP() {
