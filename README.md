@@ -6,8 +6,7 @@ the arthurs:
 
 #Divied to two parts - Part1 first and Part2 after.
 
-#Part1 - Count file's lines
-## Description
+## Part1 - Count file's lines Description
 
 
 ### Classes:
@@ -104,8 +103,7 @@ for each file print the his name and number of lines.
 for each method print the time that take to the method to calulted the count
 and print the count.
 ```
-#Part2 - ThreadPool with priority option
-## Description
+## Part2 - ThreadPool with priority option Description
 
 in Part to we have 2 classes - Task, CustmoExecutor, TaskFuture( in CustomExecutor ).
 
