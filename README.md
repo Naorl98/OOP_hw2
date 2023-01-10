@@ -103,6 +103,11 @@ for each file print the his name and number of lines.
 for each method print the time that take to the method to calulted the count
 and print the count.
 ```
+
+### Diagram:
+
+
+![Temple](https://user-images.githubusercontent.com/118805710/210025459-3247b79a-4021-42b2-ae9b-02aa684cdd0d.png)
 ## Part2 - ThreadPool with priority option Description
 
 in Part to we have 2 classes - Task, CustmoExecutor, TaskFuture( in CustomExecutor ).
@@ -203,4 +208,8 @@ $ beforeExecute -
      * @param t the exception that caused termination, or null if
      * execution completed normally
 $ getQueueP - return super.getQueue
-$ submitTask -
+
+###Diagram:
+
+
+![Temple](https://user-images.githubusercontent.com/118805710/210025459-3247b79a-4021-42b2-ae9b-02aa684cdd0d.png)
