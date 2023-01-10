@@ -105,10 +105,8 @@ and print the count.
 ```
 
 ### Diagram:
+![Part1Diagram](https://user-images.githubusercontent.com/118805710/211622143-5cbbc9b1-93ec-4688-84c8-6f4403551ab7.png)
 
-
-![Temple](https://user-images.githubusercontent.com/118805710/210025459-3247b79a-4021-42b2-ae9b-02aa684cdd0d.png)
-## Part2 - ThreadPool with priority option Description
 
 in Part to we have 2 classes - Task, CustmoExecutor, TaskFuture( in CustomExecutor ).
 
