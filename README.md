@@ -105,6 +105,7 @@ and print the count.
 ```
 
 ### Diagram:
+
 ![Part1Diagram](https://user-images.githubusercontent.com/118805710/211622143-5cbbc9b1-93ec-4688-84c8-6f4403551ab7.png)
 
 
@@ -209,5 +210,4 @@ $ getQueueP - return super.getQueue
 
 ###Diagram:
 
-
-![Temple](https://user-images.githubusercontent.com/118805710/210025459-3247b79a-4021-42b2-ae9b-02aa684cdd0d.png)
+![Part2Diagram](https://user-images.githubusercontent.com/118805710/211622293-0e1e729f-d537-4c91-9087-6673458f7b51.png)
