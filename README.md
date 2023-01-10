@@ -103,7 +103,11 @@ for each file print the his name and number of lines.
 for each method print the time that take to the method to calulted the count
 and print the count.
 ```
+### Conclusions:
 
+ from the main we can see that the faster way is the threadpool,
+ after it the Thread and the slower way is the normal way of loop.
+ 
 ### Diagram:
 
 ![Part1Diagram](https://user-images.githubusercontent.com/118805710/211622143-5cbbc9b1-93ec-4688-84c8-6f4403551ab7.png)
